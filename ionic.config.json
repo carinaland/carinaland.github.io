@@ -1,0 +1,8 @@
+{
+  "name": "Umwelttracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2dabecb5"
+}
